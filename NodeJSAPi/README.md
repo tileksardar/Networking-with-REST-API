@@ -1,4 +1,4 @@
-# my-journal-lbta
+# 
 
 a [Sails v1](https://sailsjs.com) application
 
@@ -14,7 +14,7 @@ a [Sails v1](https://sailsjs.com) application
 
 ### Version info
 
-This app was originally generated on Fri Apr 08 2022 15:23:16 GMT+0600 (Kyrgyzstan Time) using Sails v1.5.2.
+
 
 <!-- Internally, Sails used [`sails-generate@2.0.6`](https://github.com/balderdashy/sails-generate/tree/v2.0.6/lib/core-generators/new). -->
 
